@@ -5,6 +5,7 @@ int main () {
     string name;
     cout << "Enter your name: ";
     getline(cin, name);
+    // cin >> name;
     cout << "Hello, " << name << "!" << endl;
     name.push_back('a');
     cout << "After push_back: " << name << endl;
