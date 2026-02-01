@@ -20,7 +20,7 @@ int main () {
     }
     
 
-    for(int num = num1; num <= num2; num++)
+    for(int num = num1; num <= num2; num--)
     {
         if(num < 2) continue;
         bool isPrime = true;
