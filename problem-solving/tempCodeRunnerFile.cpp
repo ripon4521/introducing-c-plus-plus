@@ -1,3 +1,1 @@
- if(sum_of_divisors == num) {
-            cout << num << " ";
-        }
+                // cout << "\nSum of divisors: " << sum_of_divisors << endl;
